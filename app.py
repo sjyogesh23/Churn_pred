@@ -100,13 +100,3 @@ if submitted:
         st.success("Prediction: No, the customer is not likely to churn.")
 
     st.info(f"Prediction Probability: {probability}")
-
-st.write(' ')
-
-left, right = st.columns(2)
-
-if left.button("Code Link", use_container_width=True):
-    webbrowser.open("https://github.com/sjyogesh23/Churn_pred")
-
-if right.button("Developer Portfolio", use_container_width=True):
-    webbrowser.open("https://yogeshsj.vercel.app/")
