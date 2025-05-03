@@ -35,7 +35,7 @@ The project includes:
 ## Project Details
 
 - **Notebook:** [Telco Customer Churn Prediction - Colab](https://colab.research.google.com/drive/13NohKopanWAXnT02RhsgOsGy3X96T7jf?authuser=0#scrollTo=JfXv4iefNPGq)
-- **Streamlit Web Application:** A deployed app that predicts customer churn based on input features.
+- **Streamlit Web Application:** A deployed app that allows users to predict customer churn based on input features. Access it here: [Telco Customer Churn Prediction](https://telco-customer-churn-predict.streamlit.app/)
 
 ## Dataset
 

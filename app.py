@@ -108,5 +108,5 @@ left, right = st.columns(2)
 if left.button("Code Link", use_container_width=True):
     webbrowser.open("https://github.com/sjyogesh23/Churn_pred")
 
-if right.button("My Portfolio", use_container_width=True):
+if right.button("Developer Portfolio", use_container_width=True):
     webbrowser.open("https://yogeshsj.vercel.app/")
